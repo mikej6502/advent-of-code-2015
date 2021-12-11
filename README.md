@@ -1,2 +1,2 @@
-# advent-of-code-java
-Advent Of Code Solutions using Java
+# advent-of-code-2015
+Advent Of Code Solutions for 2015 using Java
